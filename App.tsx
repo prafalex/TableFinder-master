@@ -13,6 +13,7 @@ import MyButton from './components/utils/MyButton';
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import AppLoading from 'expo-app-loading';
 import RestaurantsScreen from './screens/RestaurantsScreen';
+import BookingScreen from './screens/BookingScreen';
 
 const Stack = createNativeStackNavigator();
 
